@@ -1,6 +1,7 @@
 {
-  "name": "midway-faas-vue-demo",
-  "version": "1.0.0",
+  "name": "faas-vue",
+  "version": "0.0.1",
+  "author": "Daniel",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
